@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1706272835 "/home/skel/Documents/Physik/physik.tex" "/home/skel/Documents/Physik/physik.pdf" "physik" 1706272840
+["pdflatex"] 1707728341 "/home/skel/Documents/Physik/physik.tex" "/home/skel/Documents/Physik/physik.pdf" "physik" 1707728343
   "/home/skel/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1706268324 11524 a8d825ee3c178e49e13b75c1dd60d2e5 ""
-  "/home/skel/Documents/Physik/physik.aux" 1706272839 1765 7fb5830888be455f183fdbcc4b865945 ""
-  "/home/skel/Documents/Physik/physik.tex" 1706272833 4346 d36e75116b7fee0eba8a2fdfb9e56d75 ""
+  "/home/skel/Documents/Physik/physik.aux" 1707728343 1879 03dc9ddd5bb46426ec309320d8b7c7f4 ""
+  "/home/skel/Documents/Physik/physik.tex" 1707728339 4821 ec280b1c561108d819f07423ed2acb84 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -112,13 +112,14 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1705922478 79177 2f0989074498ea4844b7ab007445813a ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705922531 7535431 64312acf4b5645a1323a9de661801498 ""
   "/usr/local/texlive/2023/texmf.cnf" 1705922476 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "physik.aux" 1706272839 1765 7fb5830888be455f183fdbcc4b865945 ""
-  "physik.tex" 1706272833 4346 d36e75116b7fee0eba8a2fdfb9e56d75 ""
-  "physik.toc" 1706272839 1118 3680a8e3ec14845a39fc5ba1e8bbf66d ""
+  "graphics/universalGravitation.png" 1707728334 5620 58daaed8e3d37db07e819812c364d514 ""
+  "physik.aux" 1707728343 1879 03dc9ddd5bb46426ec309320d8b7c7f4 ""
+  "physik.tex" 1707728339 4821 ec280b1c561108d819f07423ed2acb84 ""
+  "physik.toc" 1707728343 1191 993d60c00f8fb857b3aef7a4f978b4f6 ""
   (generated)
-  "/home/skel/Documents/Physik/physik.log"
   "physik.aux"
-  "physik.pdf"
-  "/home/skel/Documents/Physik/physik.pdf"
   "physik.toc"
+  "physik.pdf"
   "physik.log"
+  "/home/skel/Documents/Physik/physik.pdf"
+  "/home/skel/Documents/Physik/physik.log"
