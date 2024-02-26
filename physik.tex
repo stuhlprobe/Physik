@@ -83,13 +83,15 @@
         \end{tikzpicture}
     \end{figure}
         
+    \newpage
         \subsection{Felder skizzieren}
         
             Zu beachten:
             \begin{enumerate}
-                \item Vektoren sind Pfeile
-                \item Der Schwanz eines Vektors beginnt stets am Ursprung
-                \item Der Kopf eines Vektors endet stets 
+                \item Feldlinien sind Vektoren
+                \item Der Schwanz von Feldlinien beginnt stets am Ursprung
+                \item Feldlinien werden mit gleichem Abstand zueinander gezeichnet, wenn das Feld homogen ist.
+                \item Je dichter die Feldlinien, desto stärker das Feld.
             \end{enumerate}
 
         \subsection{Schaltkreise und Versuchsaufbauten}
@@ -109,7 +111,8 @@
             Die Felder, die für uns wichtig sind, sind sog. Vektorfelder der Elektromagnetischen Kraft
             und der Gravitationskraft. \\
             In der Physik werden Kräfte zwischen zwei Objekten gerne mit Vektoren beschrieben. Ungefähr so:
-            \begin{figure}[h]\includegraphics{graphics/universalGravitation.png}\end{figure}          
+            \begin{figure}[h] \label{figure3: Gravitationskraft} \includegraphics{graphics/universalGravitation.png}\end{figure}   
+            Die Massen $m_1$ und $ m_2 $ ziehen sich durch Gravitation an.
         \subsection{Darstellung von Feldern}
 
             
@@ -142,13 +145,13 @@
             \hline
             Bezeichnung & Symbol & Formel/Berechnung & Beschreibung/Kommentar & Grenzwerte \\
             \hline
-            Halbwertszeit   & $ T_{1/2} [s] $   & \[ T_{1/2}=\frac{ln(2)}{\lambda} \] \[N=N_0 \cdot e^{-\lambda t}\] &   Zeit bis die Ausgangsmenge eines bestimmten Isotops zerfallen ist. & Nicht behandelt. \\
+            Halbwertszeit   & $ T_{1/2} [s] $   & \[ T_{1/2}=\frac{ln(2)}{\lambda} \] \[N=N_0 \cdot e^{-\lambda t}\] &   Zeit bis die Hälfte einer Ausgangsmenge eines bestimmten Isotops zerfallen ist. & Nicht behandelt. \\
             \hline
             Aktivität & A[Bq] &   \[A=A_0 \cdot e^{-\lambda t}\] \[\frac{\Delta N}{\Delta t}\]  & Anzahl der Zerfälle pro Zeit.   & Nicht behandelt. \\
             \hline
             Energiedosis & D[Gy] & \[D=\frac{E}{m}\] &  Strahlungsmenge, die ein organischer Körper aufnimmt. & Tod: 6Gy (in kurzer Zeit auf ganzen Körper)\\
             \hline
-            Äquivalentdosis & $D_q$[Sv]& \[ D_q = D \cdot q \] \[D_{\alpha}=20\] \[D_{\beta}=1\]\[D_{\gamma}=1\] \[D_{N}=[2;10]\] & Energiedosis unter Berücksichtigung auf biologische Wirkung und Strahlungsart \[D_{q,eff}=D_q \cdot W_e\] $W_e$=Wichtungsfaktor & 250 mSv führt zu Schäden, 5Sv führt zum Tod (in kurzer Zeit) \\
+            Äquivalentdosis & $D_q$[Sv]& \[ D_q = D \cdot q \] \[q_{\alpha}=20\] \[q_{\beta}=1\]\[q_{\gamma}=1\] \[q_{N}=[2;10]\] & Energiedosis unter Berücksichtigung auf biologische Wirkung und Strahlungsart \[D_{q,eff}=D_q \cdot W_e\] $W_e$=Wichtungsfaktor & 250 mSv führt zu Schäden, 5Sv führt zum Tod (in kurzer Zeit) \\
             \hline
            \end{tabular}
 \end{document}

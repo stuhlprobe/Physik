@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  22 FEB 2024 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  26 FEB 2024 13:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -466,65 +466,58 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--104
-
- []
-
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<graphics/universalGravitation.png, id=109, 200.75pt x 125.46875pt>
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
+
+ []
+
+<graphics/universalGravitation.png, id=106, 200.75pt x 125.46875pt>
 File: graphics/universalGravitation.png Graphic file (type png)
 <use graphics/universalGravitation.png>
-Package pdftex.def Info: graphics/universalGravitation.png  used on input line 112.
+Package pdftex.def Info: graphics/universalGravitation.png  used on input line 114.
 (pdftex.def)             Requested size: 200.7495pt x 125.46843pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [2]
-Overfull \hbox (4.04736pt too wide) in paragraph at lines 143--143
+Overfull \hbox (4.04736pt too wide) in paragraph at lines 146--146
 []\OT1/cmr/m/n/10 Symbol| 
  []
 
 
-Overfull \hbox (0.80858pt too wide) in paragraph at lines 143--143
+Overfull \hbox (0.80858pt too wide) in paragraph at lines 146--146
 []\OT1/cmr/m/n/10 Formel/Berechnung| 
  []
 
 
-Overfull \hbox (1.16145pt too wide) in paragraph at lines 143--143
+Overfull \hbox (1.16145pt too wide) in paragraph at lines 146--146
 []\OT1/cmr/m/n/10 Beschreibung/Kommentar| 
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 145--145
-[]\OT1/cmr/m/n/10 Zeit bis die Aus-gangs-
- []
-
-
-Underfull \hbox (badness 1400) in paragraph at lines 147--147
+Underfull \hbox (badness 1400) in paragraph at lines 150--150
 []\OT1/cmr/m/n/10 Anzahl der Zerf^^?alle pro
  []
 
 
-Overfull \hbox (0.6317pt too wide) in paragraph at lines 151--151
+Overfull \hbox (0.6317pt too wide) in paragraph at lines 154--154
 []$\OML/cmm/m/it/10 D[]$\OT1/cmr/m/n/10 [Sv]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []\OT1/cmr/m/n/10 Energiedosis unter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 \OT1/cmr/m/n/10 Ber^^?ucksichtigung auf
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 151--152
+Underfull \hbox (badness 1112) in paragraph at lines 154--155
 \OT1/cmr/m/n/10 5Sv f^^?uhrt zum Tod (in
  []
 
@@ -537,18 +530,18 @@ Package rerunfilecheck Info: File `physik.out' has not changed.
 (rerunfilecheck)             Checksum: B182D196C83C00A372EEFE40B3C51BD3;3060.
  ) 
 Here is how much of TeX's memory you used:
- 19358 strings out of 475617
- 365468 string characters out of 5780716
- 1948539 words of memory out of 5000000
- 41141 multiletter control sequences out of 15000+600000
+ 19360 strings out of 475617
+ 365502 string characters out of 5780716
+ 1944539 words of memory out of 5000000
+ 41142 multiletter control sequences out of 15000+600000
  563266 words of font info for 53 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  84i,10n,93p,475b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/skel/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /home/skel/Documents/Physik/physik.pdf (4 pages, 176995 bytes).
+Output written on /home/skel/Documents/Physik/physik.pdf (4 pages, 177465 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 200 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
