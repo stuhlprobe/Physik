@@ -1,6 +1,14 @@
 \documentclass{article}
 \usepackage{graphicx} % Required for inserting images
 \usepackage{tikz}
+\usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    }
 
 \title{Physik - Zusammenfassung fürs Abitur}
 \author{Maximilian Penke, Emil Maihorn}
@@ -75,13 +83,15 @@
         \end{tikzpicture}
     \end{figure}
         
+    \newpage
         \subsection{Felder skizzieren}
         
             Zu beachten:
             \begin{enumerate}
-                \item Vektoren sind Pfeile
-                \item Der Schwanz eines Vektors beginnt stets am Ursprung
-                \item Der Kopf eines Vektors endet stets 
+                \item Feldlinien sind Vektoren
+                \item Der Schwanz von Feldlinien beginnt stets am Ursprung
+                \item Feldlinien werden mit gleichem Abstand zueinander gezeichnet, wenn das Feld homogen ist.
+                \item Je dichter die Feldlinien, desto stärker das Feld.
             \end{enumerate}
 
         \subsection{Schaltkreise und Versuchsaufbauten}
@@ -93,11 +103,19 @@
             Generell gilt: stets in 10er-Potenzen umformen und damit rechnen! \\
             Regeln zur Potenzumformung: $10^m \cdot 10^n = 10^{m+n}$, $\frac{10^m}{m^n} = 10^{m-n}$ \\
             Stets bedenken: Aus Subtraktionen und Summen kürzen nur die Dummen! \\
-            s
 
     \section{Q1: Felder}
 
+        \subsection{Einführung in Felder}
+            In der Physik werden Felder genutzt, um Kräfte, Flüsse und Bewegungen zu beschreiben.
+            Die Felder, die für uns wichtig sind, sind sog. Vektorfelder der Elektromagnetischen Kraft
+            und der Gravitationskraft. \\
+            In der Physik werden Kräfte zwischen zwei Objekten gerne mit Vektoren beschrieben. Ungefähr so:
+            \begin{figure}[h] \label{figure3: Gravitationskraft} \includegraphics{graphics/universalGravitation.png}\end{figure}   
+            Die Massen $m_1$ und $ m_2 $ ziehen sich durch Gravitation an.
         \subsection{Darstellung von Feldern}
+
+            
 
         \subsection{Gravitationsfelder und Astronomie}
 
@@ -114,6 +132,28 @@
     \section{Q3: Quantenphysik}
 
     \section{Q4: Kernphysik}
+
+        Mehr unter \href{https://gcm.schule/material/2024/physik/lk13/}{gcm.schule/material}
+
+        \subsection{Einheiten für Radioaktive Strahlung}
+
+        Mehr unter \href{https://gcm.schule/material/2024/physik/lk13/q4_wopla-05.md}{gcm.schule/material}
+
+        \begin{tabular}{ |p{4cm}|p{1cm}|p{3cm}|p{4cm}|p{4cm}|  }
+            \hline
+            \multicolumn{5}{|c|}{\textbf{Einheiten}} \\
+            \hline
+            Bezeichnung & Symbol & Formel/Berechnung & Beschreibung/Kommentar & Grenzwerte \\
+            \hline
+            Halbwertszeit   & $ T_{1/2} [s] $   & \[ T_{1/2}=\frac{ln(2)}{\lambda} \] \[N=N_0 \cdot e^{-\lambda t}\] &   Zeit bis die Hälfte einer Ausgangsmenge eines bestimmten Isotops zerfallen ist. & Nicht behandelt. \\
+            \hline
+            Aktivität & A[Bq] &   \[A=A_0 \cdot e^{-\lambda t}\] \[\frac{\Delta N}{\Delta t}\]  & Anzahl der Zerfälle pro Zeit.   & Nicht behandelt. \\
+            \hline
+            Energiedosis & D[Gy] & \[D=\frac{E}{m}\] &  Strahlungsmenge, die ein organischer Körper aufnimmt. & Tod: 6Gy (in kurzer Zeit auf ganzen Körper)\\
+            \hline
+            Äquivalentdosis & $D_q$[Sv]& \[ D_q = D \cdot q \] \[q_{\alpha}=20\] \[q_{\beta}=1\]\[q_{\gamma}=1\] \[q_{N}=[2;10]\] & Energiedosis unter Berücksichtigung auf biologische Wirkung und Strahlungsart \[D_{q,eff}=D_q \cdot W_e\] $W_e$=Wichtungsfaktor & 250 mSv führt zu Schäden, 5Sv führt zum Tod (in kurzer Zeit) \\
+            \hline
+           \end{tabular}
 \end{document}
 
 
