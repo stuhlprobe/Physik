@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1710681348.89389 "c:/Users/Atom/Documents/School fuckujd/cheat-sheets/Physik/physik.tex" "physik.pdf" "physik" 1710681349.75726 0
+["pdflatex"] 1710707322.70817 "c:/Users/Atom/Documents/School fuckujd/cheat-sheets/Physik/physik.tex" "physik.pdf" "physik" 1710707323.66306 0
   "C:/Users/Atom/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1706561588 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Atom/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1710615544 11548 6f3247eb0af109b6dd93c09c08cb562a ""
   "C:/Users/Atom/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1706038776 24224615 18dcc995be1e49f1487333f9491575db ""
@@ -141,12 +141,12 @@
   "C:/Users/Atom/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Atom/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Atom/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/Atom/Documents/School fuckujd/cheat-sheets/Physik/physik.tex" 1710681348 7065 a53f62f837ce4bc33a7d20bb6eb16684 ""
+  "c:/Users/Atom/Documents/School fuckujd/cheat-sheets/Physik/physik.tex" 1710707322 7293 c267aabc32a227a1a11a167c21b882a1 ""
   "graphics/universalGravitation.png" 1710679430 5620 202f01e3022cb5e110421bad1a29b396 ""
-  "physik.aux" 1710681349 2450 d5ea6311fa002ce57ee588195f7b05b2 "pdflatex"
-  "physik.out" 1710681349 3060 b182d196c83c00a372eefe40b3c51bd3 "pdflatex"
-  "physik.tex" 1710681348 7065 a53f62f837ce4bc33a7d20bb6eb16684 ""
-  "physik.toc" 1710681349 1502 66eae138f4fe90d0cb19147ab127b93e "pdflatex"
+  "physik.aux" 1710707323 2450 d7120c6eb23d632142c482afa08670fa "pdflatex"
+  "physik.out" 1710707323 3060 b182d196c83c00a372eefe40b3c51bd3 "pdflatex"
+  "physik.tex" 1710707322 7293 c267aabc32a227a1a11a167c21b882a1 ""
+  "physik.toc" 1710707323 1502 12c9c33466e00e03c433e06e5ba5ac73 "pdflatex"
   (generated)
   "physik.aux"
   "physik.log"
