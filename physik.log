@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.26)  19 APR 2024 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.26)  19 APR 2024 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,231 +576,230 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
-<graphics/universalGravitation.png, id=190, 200.75pt x 125.46875pt>
+<graphics/universalGravitation.png, id=195, 200.75pt x 125.46875pt>
 File: graphics/universalGravitation.png Graphic file (type png)
 <use graphics/universalGravitation.png>
 Package pdftex.def Info: graphics/universalGravitation.png  used on input line 
 116.
 (pdftex.def)             Requested size: 200.7495pt x 125.46843pt.
 [3 <./graphics/universalGravitation.png>]
-Overfull \hbox (20.18129pt too wide) in paragraph at lines 156--156
+Overfull \hbox (13.26613pt too wide) in paragraph at lines 172--174
+ []\OT1/cmr/bx/n/10 Elektrisches Po-ten-tial[] \OT1/cmr/m/n/10 Po-ten-tiale sin
+d eigen-schaften eines Feldes welche die Wirkung des Felds auf Jeglichen Ladung
+ beschreiben.
+ []
+
+[4]
+Overfull \hbox (20.18129pt too wide) in paragraph at lines 270--270
 []\OT1/cmr/bx/n/12 Eigenschaften von Quan-tenob-jek-ten Nicht Geneg-stand der A
 uf-gaben-stel-lung ist der Compton-
  []
 
-<graphics/potentielleKernenergie.jpg, id=207, 144.54pt x 120.9318pt>
+<graphics/potentielleKernenergie.jpg, id=230, 144.54pt x 120.9318pt>
 File: graphics/potentielleKernenergie.jpg Graphic file (type jpg)
 <use graphics/potentielleKernenergie.jpg>
 Package pdftex.def Info: graphics/potentielleKernenergie.jpg  used on input lin
-e 167.
+e 281.
 (pdftex.def)             Requested size: 278.69475pt x 233.18652pt.
-<graphics/bindungsEnergie.png, id=208, 321.2pt x 273.02pt>
+<graphics/bindungsEnergie.png, id=231, 321.2pt x 273.02pt>
 File: graphics/bindungsEnergie.png Graphic file (type png)
 <use graphics/bindungsEnergie.png>
-Package pdftex.def Info: graphics/bindungsEnergie.png  used on input line 168.
+Package pdftex.def Info: graphics/bindungsEnergie.png  used on input line 282.
 (pdftex.def)             Requested size: 278.69475pt x 236.89642pt.
-<graphics/bindungsEnergie_big.png, id=209, 385.44pt x 249.0906pt>
+<graphics/bindungsEnergie_big.png, id=232, 385.44pt x 249.0906pt>
 File: graphics/bindungsEnergie_big.png Graphic file (type png)
 <use graphics/bindungsEnergie_big.png>
-Package pdftex.def Info: graphics/bindungsEnergie_big.png  used on input line 1
-69.
+Package pdftex.def Info: graphics/bindungsEnergie_big.png  used on input line 2
+83.
 (pdftex.def)             Requested size: 278.69475pt x 180.10524pt.
-<graphics/sternzyklus.png, id=210, 803.0pt x 1071.00125pt>
+<graphics/sternzyklus.png, id=233, 803.0pt x 1071.00125pt>
 File: graphics/sternzyklus.png Graphic file (type png)
 <use graphics/sternzyklus.png>
-Package pdftex.def Info: graphics/sternzyklus.png  used on input line 170.
+Package pdftex.def Info: graphics/sternzyklus.png  used on input line 284.
 (pdftex.def)             Requested size: 557.38951pt x 743.46942pt.
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 167--175
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 281--289
 [] [] 
  []
 
-[4] [5 <./graphics/potentielleKernenergie.jpg> <./graphics/bindungsEnergie.png>
+[5] [6 <./graphics/potentielleKernenergie.jpg> <./graphics/bindungsEnergie.png>
  <./graphics/bindungsEnergie_big.png>]
 Overfull \vbox (5.40492pt too high) has occurred while \output is active []
 
 
-[6 <./graphics/sternzyklus.png>]
-Overfull \hbox (4.04736pt too wide) in paragraph at lines 184--184
+[7 <./graphics/sternzyklus.png>]
+Overfull \hbox (4.04736pt too wide) in paragraph at lines 298--298
 []\OT1/cmr/m/n/10 Symbol| 
  []
 
 
-Overfull \hbox (0.80858pt too wide) in paragraph at lines 184--184
+Overfull \hbox (0.80858pt too wide) in paragraph at lines 298--298
 []\OT1/cmr/m/n/10 Formel/Berechnung| 
  []
 
 
-Overfull \hbox (1.16145pt too wide) in paragraph at lines 184--184
+Overfull \hbox (1.16145pt too wide) in paragraph at lines 298--298
 []\OT1/cmr/m/n/10 Beschreibung/Kommentar| 
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 188--188
+Underfull \hbox (badness 1400) in paragraph at lines 302--302
 []\OT1/cmr/m/n/10 Anzahl der Zerf^^?alle pro
  []
 
 File: graphics/potentielleKernenergie.jpg Graphic file (type jpg)
 <use graphics/potentielleKernenergie.jpg>
 Package pdftex.def Info: graphics/potentielleKernenergie.jpg  used on input lin
-e 192.
+e 306.
 (pdftex.def)             Requested size: 278.69475pt x 233.18652pt.
 
-Overfull \hbox (164.88373pt too wide) in paragraph at lines 192--193
+Overfull \hbox (164.88373pt too wide) in paragraph at lines 306--307
 [][]| 
  []
 
 File: graphics/bindungsEnergie.png Graphic file (type png)
 <use graphics/bindungsEnergie.png>
-Package pdftex.def Info: graphics/bindungsEnergie.png  used on input line 193.
+Package pdftex.def Info: graphics/bindungsEnergie.png  used on input line 307.
 (pdftex.def)             Requested size: 278.69475pt x 236.89642pt.
 File: graphics/bindungsEnergie_big.png Graphic file (type png)
 <use graphics/bindungsEnergie_big.png>
-Package pdftex.def Info: graphics/bindungsEnergie_big.png  used on input line 1
-94.
+Package pdftex.def Info: graphics/bindungsEnergie_big.png  used on input line 3
+08.
 (pdftex.def)             Requested size: 278.69475pt x 180.10524pt.
 
-Overfull \hbox (164.88373pt too wide) in paragraph at lines 193--195
+Overfull \hbox (164.88373pt too wide) in paragraph at lines 307--309
 [][]
  []
 
 
-Overfull \hbox (164.88373pt too wide) in paragraph at lines 193--195
+Overfull \hbox (164.88373pt too wide) in paragraph at lines 307--309
 []| 
  []
 
 File: graphics/sternzyklus.png Graphic file (type png)
 <use graphics/sternzyklus.png>
-Package pdftex.def Info: graphics/sternzyklus.png  used on input line 195.
+Package pdftex.def Info: graphics/sternzyklus.png  used on input line 309.
 (pdftex.def)             Requested size: 557.38951pt x 743.46942pt.
 
-Overfull \hbox (443.57849pt too wide) in paragraph at lines 195--196
+Overfull \hbox (443.57849pt too wide) in paragraph at lines 309--310
 [][]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 sieht man eine Vi-su-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 al-isierung des Kern-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 bindungsprozess, die
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 196--199
+Underfull \hbox (badness 3646) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 Bindungsen-ergien einzel-
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 196--199
+Underfull \hbox (badness 4096) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 ner El-e-mente und den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 Fusions- und Fis-sion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 skreis-lauf in Ster-nen.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 Zur Berech-nung der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 Bindungsen-ergien muss
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 196--199
+Underfull \hbox (badness 1838) in paragraph at lines 310--313
 \OML/cmm/m/it/10 E \OT1/cmr/m/n/10 = ^^A\OML/cmm/m/it/10 mc[]$ \OT1/cmr/m/n/10 
 ver-wen-det
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 bei der Fis-sion-sen-ergie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 \OT1/cmr/m/n/10 Beispiel von der Fu-
  []
 
 
-Overfull \hbox (0.6317pt too wide) in paragraph at lines 199--199
+Overfull \hbox (0.6317pt too wide) in paragraph at lines 313--313
 []$\OML/cmm/m/it/10 D[]$\OT1/cmr/m/n/10 [Sv]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
 []\OT1/cmr/m/n/10 Energiedosis unter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
 \OT1/cmr/m/n/10 Ber^^?ucksichtigung auf
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 199--200
+Underfull \hbox (badness 1112) in paragraph at lines 313--314
 \OT1/cmr/m/n/10 5Sv f^^?uhrt zum Tod (in
  []
 
-[7]
+[8]
 Overfull \vbox (1136.00455pt too high) has occurred while \output is active []
 
 
-[8] [9] (./physik.aux)
-
-Package rerunfilecheck Warning: File `physik.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `physik.out':
-(rerunfilecheck)             Before: 95FC5A93D318E28E32CAD14206FE55AA;6438
-(rerunfilecheck)             After:  6292E4E5B3C88386CA2D8852D1292716;6448.
+[9] [10] (./physik.aux)
+Package rerunfilecheck Info: File `physik.out' has not changed.
+(rerunfilecheck)             Checksum: B42A1F07F121D44F38713A99385EA9A7;6654.
  ) 
 Here is how much of TeX's memory you used:
- 19234 strings out of 477985
- 363236 string characters out of 5840058
- 1874388 words of memory out of 5000000
- 39083 multiletter control sequences out of 15000+600000
+ 19257 strings out of 477985
+ 363497 string characters out of 5840058
+ 1873388 words of memory out of 5000000
+ 39084 multiletter control sequences out of 15000+600000
  517484 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,12n,89p,631b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.5.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/
-public/cm-super/sfrm1000.pfb>
-Output written on physik.pdf (9 pages, 870996 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
+>
+Output written on physik.pdf (10 pages, 900153 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
- 294 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
-\contentsline {section}{\numberline {1}Allgemeine Hinweise zur Notation}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Koordinatensysteme}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {1}Allgemeine Hinweise zur Notation}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Koordinatensysteme}{2}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Felder skizzieren}{3}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Schaltkreise und Versuchsaufbauten}{3}{subsection.1.3}%
 \contentsline {subsection}{\numberline {1.4}Notation in der Rechnung}{3}{subsection.1.4}%
@@ -8,25 +8,47 @@
 \contentsline {subsection}{\numberline {2.2}Darstellung von Feldern}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Impulserhaltungssatz}{3}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Gravitation}{3}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Keplersche Gesetze}{3}{subsubsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.5}Gravitationskraft und Berechnung}{3}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Elektrisches Feld}{3}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}Kondensatoren}{3}{subsubsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.7}Magnetisches Feld}{3}{subsection.2.7}%
-\contentsline {section}{\numberline {3}Q2: Elektromagnetische Wellen}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Elektromagnetische Induktion}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Wahlgebiet Wechselstrom}{4}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Phasenverschiebung}{4}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Wiederstände (Ohmscher, Kapazitiver und Induktiver)}{4}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Scheinwieerstand bei einer Reichenschaltung von pohmschen, kapazitivem und induktivem Wiederstand}{4}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3}Elektromagnetische Schwingungen}{4}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Q3: Quantenphysik}{4}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Ladungsträger in elektrischen und magnetischen Feldern}{5}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Eigenschaften von Quantenobjekten Nicht Genegstand der Aufgabenstellung ist der Compton-Effekt}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Röntgenstrahlung}{5}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Q4: Kernphysik}{5}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Atomhülle}{5}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Atomkern}{5}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Fusionsenergie}{5}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Einheiten für Radioaktive Strahlung}{7}{subsubsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.3}Termschamata für Kernumwandlung}{9}{subsection.5.3}%
+\contentsline {paragraph}{Einführung \newline }{3}{section*.2}%
+\contentsline {subsubsection}{\numberline {2.4.1}Kosmische Geschwindigkeiten}{3}{subsubsection.2.4.1}%
+\contentsline {paragraph}{1. Kosmische Geschwindigkeit \newline }{3}{section*.3}%
+\contentsline {paragraph}{2. Kosmische Geschwindigkeit \newline }{4}{section*.4}%
+\contentsline {subsubsection}{\numberline {2.4.2}Keplersche Gesetze}{4}{subsubsection.2.4.2}%
+\contentsline {paragraph}{1. Keplersche Gesetz \newline }{4}{section*.5}%
+\contentsline {paragraph}{2. Keplersche Gesetz \newline }{4}{section*.6}%
+\contentsline {paragraph}{3. Keplersche Gesetz \newline }{4}{section*.7}%
+\contentsline {subsection}{\numberline {2.5}Gravitationskraft und Berechnung}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Elektrisches Feld}{4}{subsection.2.6}%
+\contentsline {paragraph}{Einführung \newline }{4}{section*.8}%
+\contentsline {paragraph}{Elektrisches Potential}{4}{section*.9}%
+\contentsline {subsubsection}{\numberline {2.6.1}Kondensatoren}{4}{subsubsection.2.6.1}%
+\contentsline {paragraph}{Einführung \newline }{4}{section*.10}%
+\contentsline {paragraph}{Physikalische Größen}{4}{section*.11}%
+\contentsline {subparagraph}{Kapazität - C}{4}{section*.12}%
+\contentsline {subparagraph}{Elektrische Feldstärke}{4}{section*.13}%
+\contentsline {subparagraph}{Kapaziziven Wiederstand}{5}{section*.14}%
+\contentsline {subparagraph}{Durchschlagsfestigkeit}{5}{section*.15}%
+\contentsline {subparagraph}{Aufladen eines Kondensators}{5}{section*.16}%
+\contentsline {subparagraph}{Spannung}{5}{section*.17}%
+\contentsline {paragraph}{Verhalten in Schaltungen}{5}{section*.18}%
+\contentsline {subparagraph}{Capazität in Reihe}{5}{section*.19}%
+\contentsline {subparagraph}{Spannung in Reihe}{5}{section*.20}%
+\contentsline {subparagraph}{Kapazität in Parallel}{5}{section*.21}%
+\contentsline {subparagraph}{Spannung in Parallel}{5}{section*.22}%
+\contentsline {subsection}{\numberline {2.7}Magnetisches Feld}{5}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Q2: Elektromagnetische Wellen}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Elektromagnetische Induktion}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Wahlgebiet Wechselstrom}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Phasenverschiebung}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Wiederstände (Ohmscher, Kapazitiver und Induktiver)}{5}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Scheinwieerstand bei einer Reichenschaltung von pohmschen, kapazitivem und induktivem Wiederstand}{5}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Elektromagnetische Schwingungen}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Q3: Quantenphysik}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ladungsträger in elektrischen und magnetischen Feldern}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Eigenschaften von Quantenobjekten Nicht Genegstand der Aufgabenstellung ist der Compton-Effekt}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Röntgenstrahlung}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Q4: Kernphysik}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Atomhülle}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Atomkern}{6}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Fusionsenergie}{6}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Einheiten für Radioaktive Strahlung}{8}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.3}Termschamata für Kernumwandlung}{10}{subsection.5.3}%
